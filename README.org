@@ -1,0 +1,6 @@
+#+TITLE: Certificates
+#+AUTHOR: Zoltán Király
+#+EMAIL: zoliky@gmail.com
+#+DATE: <2021-01-04 Mon>
+
+These certificates are not meant to prove my technical abilities but rather my dedication to constantly learning more about technology.
